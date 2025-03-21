@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0015-3sum) |
+| [0128-longest-consecutive-sequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0990-verifying-an-alien-dictionary](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0146-lru-cache) |
 | [0990-verifying-an-alien-dictionary](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 ## String
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0146-lru-cache) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
