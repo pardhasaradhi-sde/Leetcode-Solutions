@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0990-verifying-an-alien-dictionary](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 ## Hash Table
@@ -25,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0075-sort-colors) |
 ## Linked List
 |  |
 | ------- |
