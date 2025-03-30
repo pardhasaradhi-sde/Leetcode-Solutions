@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0070-climbing-stairs) |
+| [0319-bulb-switcher](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
