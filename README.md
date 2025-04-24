@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0948-sort-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0990-verifying-an-alien-dictionary](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 ## String
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Interactive
 |  |
