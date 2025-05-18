@@ -13,14 +13,21 @@ class Solution {
                 min=nums[i];
             }
         }
-        for(int i=min;i>=1;i--)
+        while(min>0 && max>0)
         {
-            if(min%i==0 && max%i==0)
+            if(min>max)
             {
-                return i;
+                min=min%max;
+            }else{
+                max=max%min;
             }
         }
-        return -1;
+        if(min==0)
+        {
+            return max;
+        }
+        return min;
     }
+
 
 }
