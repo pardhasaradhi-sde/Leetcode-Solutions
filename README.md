@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0367-valid-perfect-square) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -219,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
