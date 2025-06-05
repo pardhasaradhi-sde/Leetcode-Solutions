@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0169-majority-element) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
