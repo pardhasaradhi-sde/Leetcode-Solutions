@@ -1,30 +1,54 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        ArrayList<Integer> row=new ArrayList<>();
-        ArrayList<Integer> col=new ArrayList<>();
-        for(int i=0;i<matrix.length;i++)
+        Boolean firstrowzero=false;
+        Boolean firstcolzero=false;
+        for(int i=0;i<matrix[0].length;i++)
         {
-            for(int j=0;j<matrix[0].length;j++)
+            if(matrix[0][i]==0)
+            {
+                firstrowzero=true;
+            }
+        }
+        for(int j=0;j<matrix.length;j++)
+        {
+            if(matrix[j][0]==0)
+            {
+                firstcolzero=true;
+            }
+        }
+        for(int i=1;i<matrix.length;i++)
+        {
+            for(int j=1;j<matrix[0].length;j++)
             {
                 if(matrix[i][j]==0)
                 {
-                    row.add(i);
-                    col.add(j);
+                    matrix[i][0]=0;
+                    matrix[0][j]=0;
                 }
             }
         }
-        for(int r:row)
+        for(int i=1;i<matrix.length;i++)
         {
-            for(int c=0;c<matrix[0].length;c++)
+            for(int j=1;j<matrix[0].length;j++)
             {
-                matrix[r][c]=0;
+                if(matrix[i][0]==0 || matrix[0][j]==0)
+                {
+                    matrix[i][j]=0;
+                }
             }
         }
-        for(int r=0;r<matrix.length;r++)
+        if(firstrowzero)
         {
-            for(int c:col)
+            for(int i=0;i<matrix[0].length;i++)
             {
-                matrix[r][c]=0;
+                matrix[0][i]=0;
+            }
+        }
+        if(firstcolzero)
+        {
+            for(int i=0;i<matrix.length;i++)
+            {
+                matrix[i][0]=0;
             }
         }
     }
