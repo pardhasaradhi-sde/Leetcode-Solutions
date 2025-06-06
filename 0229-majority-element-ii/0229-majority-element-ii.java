@@ -1,52 +1,20 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        int candidate1=0,candidate2=0,count1=0,count2=0;
-        for(int num:nums)
-        {
-            if(num==candidate1)
-            {
-                count1++;
-            }
-            else if(num==candidate2)
-            {
-                count2++;
-            }
-            else if(count1==0)
-            {
-                candidate1=num;
-                count1++;
-            }
-            else if(count2==0)
-            {
-                candidate2=num;
-                count2++;
-            }
-            else{
-                count1--;
-                count2--;
-            }
-        }
-        count1=count2=0;
-        for(int num:nums)
-        {
-            if(num==candidate1)
-            {
-                count1++;
-            }
-            else if(num==candidate2)
-            {
-                count2++;
-            }
-        }
         List<Integer> l1=new ArrayList<>();
-        if(count1>nums.length/3)
+        HashMap<Integer,Integer> m1=new HashMap<>();
+        for(int num:nums)
         {
-            l1.add(candidate1);
+            m1.put(num,m1.getOrDefault(num,0)+1);
         }
-        if(count2>nums.length/3)
+        for(Map.Entry<Integer,Integer> entry:m1.entrySet())
         {
-            l1.add(candidate2);
-        }
+            int val=entry.getValue();
+            int key=entry.getKey();
+            if(val>(nums.length/3))
+            {
+                l1.add(key);
+            }
+        }   
         return l1;
-    }
+        }
 }
