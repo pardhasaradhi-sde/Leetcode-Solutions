@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0792-binary-search](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0948-sort-an-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0374-guess-number-higher-or-lower](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0792-binary-search](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0792-binary-search) |
 ## Matrix
 |  |
 | ------- |
