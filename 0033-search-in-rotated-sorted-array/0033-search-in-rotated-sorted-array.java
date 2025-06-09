@@ -1,36 +1,12 @@
 class Solution {
     public int search(int[] nums, int target) {
-        return searchhelper(nums,target,0,nums.length-1);
-    }
-
-    private int searchhelper(int []nums,int target,int left,int right)
-    {
-        if(left>right)
+        for(int i=0;i<nums.length;i++)
         {
-            return -1;
-        }
-        int mid=left+(right-left)/2;
-        if(nums[mid]==target)
-        {
-            return mid;
-        }
-        if(nums[left]<=nums[mid])
-        {
-            if(nums[left]<=target && target<=nums[mid])
+            if(nums[i]==target)
             {
-               return searchhelper(nums,target,left,mid-1);
-            }else{
-               return searchhelper(nums,target,mid+1,right);
+                return i;
             }
         }
-        else{
-            if(nums[mid]<=target && target<=nums[right])
-            {
-               return  searchhelper(nums,target,mid+1,right);
-            }
-            else{
-               return searchhelper(nums,target,left,mid-1);
-            }
-        }
+        return -1;
     }
 }
