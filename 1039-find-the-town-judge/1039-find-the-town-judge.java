@@ -1,31 +1,21 @@
 class Solution {
     public int findJudge(int n, int[][] trust) {
-    if(trust.length==0 && n<=1)
+    int trusted[]=new int[n+1];
+    int trustedby[]=new int[n+1];
+    for(int []i:trust)
     {
-        return 1;
+        int a=i[0];
+        int b=i[1];
+        trusted[a]++;
+        trustedby[b]++;
     }
-    HashMap<Integer,Integer> h1=new HashMap<>();
-    for(int j=0;j<trust.length;j++)
+    for(int i=1;i<=n;i++)
     {
-        int trusted=trust[j][1];
-        h1.put(trusted,h1.getOrDefault(trusted,0)+1);
-    }
-    int judge=-1;
-    for(Map.Entry<Integer,Integer> entry :   h1.entrySet())
-    {
-        if(entry.getValue()==n-1)
+        if(trustedby[i]==n-1 && trusted[i]==0)
         {
-            judge=entry.getKey();
-            break;
+            return i;
         }
     }
-    for(int i=0;i<trust.length;i++)
-    {
-        if(trust[i][0]==judge)
-        {
-            return -1;
-        }
-    }
-    return judge;
+    return -1;
     }
 }
