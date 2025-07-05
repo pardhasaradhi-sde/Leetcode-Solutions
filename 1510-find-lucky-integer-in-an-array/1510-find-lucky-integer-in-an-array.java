@@ -6,16 +6,15 @@ class Solution {
             h1.put(arr[i],h1.getOrDefault(arr[i],0)+1);
         }
         int largest=Integer.MIN_VALUE;
-        for(int i=0;i<arr.length;i++)
+        for(Map.Entry<Integer,Integer> entry:h1.entrySet())
         {
-            if(i!=0 && arr[i]==arr[i-1])
+            int key=entry.getKey();
+            int value=entry.getValue();
+            if(value==key && value>largest)
             {
-                continue;
+                largest=value;
             }
-            if(h1.get(arr[i])==arr[i] && h1.get(arr[i])>largest )
-            {
-                largest=arr[i];
-            }
+
         }
         return (largest!=Integer.MIN_VALUE)?largest:-1;
     }
