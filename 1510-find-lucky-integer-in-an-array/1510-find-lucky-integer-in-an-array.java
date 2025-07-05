@@ -8,6 +8,10 @@ class Solution {
         int largest=Integer.MIN_VALUE;
         for(int i=0;i<arr.length;i++)
         {
+            if(i!=0 && arr[i]==arr[i-1])
+            {
+                continue;
+            }
             if(h1.get(arr[i])==arr[i] && h1.get(arr[i])>largest )
             {
                 largest=arr[i];
