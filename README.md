@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0189-rotate-array) |
@@ -325,5 +326,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0050-powx-n) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
