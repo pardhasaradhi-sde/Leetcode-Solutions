@@ -1,38 +1,33 @@
 class Solution {
     public int myAtoi(String s) {
-        int digit=0;
-        int sign=1;
-        int i=0;
-        while(i<s.length() && s.charAt(i)==' ')
+        return parse(s,0,1,false,0);
+    }
+    public int parse(String s,int num,int sign,boolean signseen,int i)
+    {
+        if(i>=s.length())
         {
-            i++;
+            return num*sign;
         }
-        if(i<s.length())
+        char c=s.charAt(i);
+        if(!signseen && c==' ')
         {
-            char c=s.charAt(i);
-            if(c=='+')
-            {
-                sign=1;
-                i++;
-            }
-            else if(c=='-')
-            {
-                sign=-1;
-                i++;
-            }
+            return parse(s,num,sign,false,i+1);
         }
-        while(i<s.length() && Character.isDigit(s.charAt(i)))
+        if(!signseen && (c=='+' || c=='-'))
         {
-            int d=s.charAt(i)-'0';
-            if(digit>(Integer.MAX_VALUE-d)/10)
-            {
-                return sign==1?Integer.MAX_VALUE:Integer.MIN_VALUE;
-            }
-
-            digit=digit*10+d;
-            i++;
+            sign=(c=='-')?-1:1;
+            return parse(s,num,sign,true,i+1);
         }
-
-        return digit*sign;
+        if(Character.isDigit(c))
+        {
+            int d=c-'0';
+            if(num>(Integer.MAX_VALUE-d)/10)
+            {
+                return (sign==1)?Integer.MAX_VALUE:Integer.MIN_VALUE;
+            }
+            return parse(s,num*10+d,sign,true,i+1);
+            
+        }
+        return num*sign;
     }
 }
