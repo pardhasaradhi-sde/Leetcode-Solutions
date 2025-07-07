@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0990-verifying-an-alien-dictionary](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0948-sort-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Linked List
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2032-largest-odd-number-in-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0948-sort-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
 |  |
 | ------- |
