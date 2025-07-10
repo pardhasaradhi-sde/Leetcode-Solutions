@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0146-lru-cache) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0069-sqrtx) |
