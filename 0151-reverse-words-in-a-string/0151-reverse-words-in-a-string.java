@@ -1,23 +1,27 @@
 class Solution {
     public String reverseWords(String s) {
-    StringBuilder s2=new StringBuilder();
-    int last=s.length()-1;
-    while(last>=0)
-    {
-        if(s.charAt(last)==' ')
+        StringBuilder s1=new StringBuilder();
+        int right=s.length()-1;
+        while(right>=0)
         {
-            last--;
-        }
-        else{
-            int start=last;
-            while(start>=0 && s.charAt(start)!=' ')
+            while(right>=0 && s.charAt(right)==' ')
             {
-                start--;
+                right--;
             }
-            s2.append(s.substring(start+1,last+1)).append(' ');
-            last=start-1;
+            if(right<0)
+            {
+                break;
+            }
+            int left=right;
+            while(left>=0 && s.charAt(left)!=' ')
+            {
+                left--;
+            }
+            s1.append(s.substring(left+1,right+1));
+            s1.append(' ');
+            right=left-1;
+
         }
-    }
-    return s2.toString().trim();
+        return s1.toString().trim();
     }
 }
