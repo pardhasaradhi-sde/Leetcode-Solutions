@@ -4,34 +4,30 @@ class Solution {
         {
             return false;
         }
-        Map<Character,Character> m1=new HashMap<>();
-        Map<Character,Character> m2=new HashMap<>();
+        HashMap<Character,Character> h1=new HashMap<>();
+        HashSet<Character> h2=new HashSet<>();
         for(int i=0;i<s.length();i++)
         {
-           char chars=s.charAt(i);
-           char chart=t.charAt(i);
-           if(m1.containsKey(chars))
-           {
-            if(m1.get(chars)!=chart)
+            char c=s.charAt(i);
+            char d=t.charAt(i);
+            if(h1.containsKey(c))
             {
-                return false;
-            }
+                if(h1.get(c)!=d)
+                {
+                    return false;
+                }
             }
             else{
-                m1.put(chars,chart);
+                if(h2.contains(d))
+                {
+                    return false;   
+                }
+                h1.put(c,d);
+                h2.add(d);
             }
-           if(m2.containsKey(chart))
-           {
-            if(m2.get(chart)!=chars)
-            {
-                return false;
-            }
-           }
-            else{
-                m2.put(chart,chars);
-            }
+           
         }
-        return true;
         
+        return true;
     }
 }
