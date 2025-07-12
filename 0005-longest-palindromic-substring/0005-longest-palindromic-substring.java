@@ -1,40 +1,26 @@
 class Solution {
-    public boolean ispalindrome(String s)
+    public int spreadaround(String s,int left,int right)
     {
-        int low=0;
-        int high=s.length()-1;
-        while(low<=high)
+        while(left>=0 && right<s.length() && s.charAt(left)==s.charAt(right))
         {
-            if(s.charAt(low)!=s.charAt(high))
-            {
-                return false;
-            }
-            else{
-                low++;
-                high--;
-            }
+            left--;
+            right++;
         }
-        return true;
+        return right-left-1;
     }
     public String longestPalindrome(String s) {
-        String s1="";
-        int longest=Integer.MIN_VALUE;
+        int start=0,end=0;
         for(int i=0;i<s.length();i++)
         {
-            for(int j=i;j<s.length();j++)
+            int len1=spreadaround(s,i,i);
+            int len2=spreadaround(s,i,i+1);
+            int max=Math.max(len1,len2);
+            if(max>end-start)
             {
-                int len=j-i+1;
-                String str=s.substring(i,j+1);
-                if(ispalindrome(str))
-                {
-                    if(longest<len)
-                    {
-                        longest=len;
-                        s1=str;
-                    }
-                }
+                start=i-(max-1)/2;
+                end=i+max/2;
             }
         }
-        return s1;
+        return s.substring(start,end+1);
     }
 }
