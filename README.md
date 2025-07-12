@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0948-sort-an-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
