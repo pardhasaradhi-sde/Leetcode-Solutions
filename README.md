@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0493-reverse-pairs) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0198-house-robber) |
+| [0410-split-array-largest-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Memoization
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0134-gas-station](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2032-largest-odd-number-in-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Interactive
