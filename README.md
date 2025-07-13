@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1675-magnetic-force-between-two-balls](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Linked List
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Matrix
 |  |
