@@ -1,41 +1,42 @@
 class Solution {
-    public boolean canship(int[] weights,int cap,int days)
-    {
-        int daysused=1;
-        int total=0;
-        for(int w:weights)
-        {
-            if(total+w>cap)
-            {
-                daysused++;
-                total=0;
-            }
-            total+=w;
-        }
-        return daysused<=days;
-    }
-    public int shipWithinDays(int[] weights, int days) {
-        int low=Integer.MIN_VALUE;
-        int high=0;
-        for(int i=0;i<weights.length;i++)
-        {
-            low=Math.max(weights[i],low);
-            high+=weights[i];
-        }
-        int ans=high;
-        while(low<=high)
-        {   
-            int mid=low+(high-low)/2;
 
-                if(canship(weights,mid,days))
-                {
-                    ans=mid;
-                    high=mid-1;
-                }
-                else{
-                    low=mid+1;
-                }
+    public boolean canShipWithinDays(int[] weights, int capacity, int maxDays) {
+        int daysNeeded = 1;
+        int currentLoad = 0;
+
+        for (int weight : weights) {
+            if (currentLoad + weight > capacity) {
+                daysNeeded++;
+                currentLoad = 0;
+            }
+            currentLoad += weight;
         }
-        return ans;
+
+        return daysNeeded <= maxDays;
+    }
+
+    public int shipWithinDays(int[] weights, int maxDays) {
+        int minCapacity = Integer.MIN_VALUE;
+        int maxCapacity = 0;
+
+        for (int weight : weights) {
+            minCapacity = Math.max(minCapacity, weight);
+            maxCapacity += weight;
+        }
+
+        int bestCapacity = maxCapacity;
+
+        while (minCapacity <= maxCapacity) {
+            int midCapacity = minCapacity + (maxCapacity - minCapacity) / 2;
+
+            if (canShipWithinDays(weights, midCapacity, maxDays)) {
+                bestCapacity = midCapacity;
+                maxCapacity = midCapacity - 1;
+            } else {
+                minCapacity = midCapacity + 1;
+            }
+        }
+
+        return bestCapacity;
     }
 }
