@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Design
 |  |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
