@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0908-middle-of-the-linked-list](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
