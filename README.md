@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0146-lru-cache) |
+| [0237-delete-node-in-a-linked-list](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Design
 |  |
 | ------- |
