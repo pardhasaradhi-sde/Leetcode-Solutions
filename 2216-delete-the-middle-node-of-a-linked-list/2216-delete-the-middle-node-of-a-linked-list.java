@@ -17,18 +17,16 @@ class Solution {
         int size=0;
         ListNode slow=head;
         ListNode fast=head;
+        ListNode prev=null;
         while(fast!=null && fast.next!=null)
         {
+            prev=slow;
             size++;
             slow=slow.next;
             fast=fast.next.next;
         }
-        ListNode temp=head;
-        for(int i=1;i<size;i++)
-        {
-            temp=temp.next;
-        }
-        temp.next=temp.next.next;
+        
+        prev.next=prev.next.next;
         return head;
     }
 }
