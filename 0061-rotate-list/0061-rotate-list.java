@@ -31,18 +31,23 @@ class Solution {
         {
             return head;
         }
-        int length=0;
-        ListNode temp=head;
-        while(temp!=null)
+        int length=1;
+        ListNode tail=head;
+        while(tail.next!=null)
         {
-            temp=temp.next;
+            tail=tail.next;
             length++;
         }
+        tail.next=head; 
         k=k%length; 
-        for(int i=0;i<k;i++)
+        int stepstonewTail=length-k;
+        ListNode newTail=head;  
+        for(int i=1;i<stepstonewTail;i++)
         {
-            head=rotateOnce(head);
+            newTail=newTail.next;
         }
-        return head;
+        ListNode newHead=newTail.next;
+        newTail.next=null;
+        return newHead;
     }
 }
