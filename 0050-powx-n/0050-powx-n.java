@@ -1,18 +1,26 @@
     class Solution {
         public double myPow(double x, int n) {
-            long N=n;
-            if(N==0)
+        long exp=n;
+         if(exp<0)
+         {
+            x=1/x;
+            exp=-exp;
+         }  
+         return pow(x,exp);
+        }
+        double pow(double x,long n)
+        {
+            if(n==0)
             {
                 return 1;
             }
-            if(N<0)
+            double half=pow(x,n/2);
+            if(n%2==0)
             {
-                return 1/myPow(x,(int)-N);
+                return half*half;
             }
-            if(N==1)
-            {
-                return x;
+            else{
+                return half*half*x;
             }
-            return x*myPow(x,(int)N-1);
         }
     }
