@@ -18,9 +18,9 @@ class Solution {
         Node temp=head;
         while(temp!=null)
         {
-            Node newnode=new Node(temp.val);
-            newnode.next=temp.next;
-            temp.next=newnode;
+            Node newNode=new Node(temp.val);
+            newNode.next=temp.next;
+            temp.next=newNode;
             temp=temp.next.next;
         }
         temp=head;
@@ -29,7 +29,7 @@ class Solution {
             Node newnode=temp.next;
             if(temp.random!=null)
             {
-            newnode.random=temp.random.next;
+                newnode.random=temp.random.next;
             }
             temp=temp.next.next;
         }
