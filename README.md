@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -438,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
