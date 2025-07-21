@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0990-verifying-an-alien-dictionary](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1904-second-largest-digit-in-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
