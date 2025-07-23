@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1302-delete-characters-to-make-fancy-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sliding Window
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
