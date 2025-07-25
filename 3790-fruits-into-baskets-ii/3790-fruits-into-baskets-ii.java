@@ -1,15 +1,14 @@
 class Solution {
     public int numOfUnplacedFruits(int[] fruits, int[] baskets) {
-        int unplaced=0;
-        boolean isplaced[]=new boolean[baskets.length];  
+        int unplaced=0; 
         for(int i=0;i<fruits.length;i++)
         {
             boolean placed=false;
             for(int j=0;j<baskets.length;j++)
             {
-                if(!isplaced[j] && fruits[i]<=baskets[j])
+                if(fruits[i]<=baskets[j])
                 {
-                   isplaced[j]=true;
+                   baskets[j]=-1;
                    placed=true;
                     break;
 
