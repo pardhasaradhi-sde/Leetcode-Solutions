@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1646-kth-missing-positive-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3790-fruits-into-baskets-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -448,10 +451,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0493-reverse-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0493-reverse-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Graph
 |  |
 | ------- |
