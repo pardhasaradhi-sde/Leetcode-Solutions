@@ -1,19 +1,23 @@
 class Solution {
-    public int numberOfSubstrings(String s) {
-        int left=0;
-        int right=0;
-        int count=0;
-        Map<Character,Integer> l1=new HashMap<>();
-        while(right<s.length())
+    public int min(int arr[])
+    {
+        int minimum=Integer.MAX_VALUE;
+        for(int i=0;i<arr.length;i++)
         {
-            l1.put(s.charAt(right),l1.getOrDefault(s.charAt(right),0)+1);
-            while(l1.getOrDefault('a',0)>=1 && l1.getOrDefault('b',0)>=1 && l1.getOrDefault('c',0)>=1)
+            minimum=Math.min(arr[i],minimum);
+        }
+        return minimum;
+    }
+    public int numberOfSubstrings(String s) {
+        int count=0;
+        int ans[]={-1,-1,-1};
+        for(int i=0;i<s.length();i++)
+        {
+            ans[s.charAt(i)-'a']=i;
+            if(ans[0]!=-1 && ans[1]!=-1 && ans[2]!=-1)
             {
-                count+=s.length()-right;
-                l1.put(s.charAt(left),l1.getOrDefault(s.charAt(left),0)-1);
-                left++;
+                count+=1+min(ans);
             }
-            right++;
         }
         return count;
     }
