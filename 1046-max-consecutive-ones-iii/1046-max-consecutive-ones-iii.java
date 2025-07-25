@@ -10,7 +10,7 @@ class Solution {
             {
                 zerocount++;
             }
-            while(zerocount>k )
+            if(zerocount>k )
             {
                 if(nums[left]==0)
                 {
