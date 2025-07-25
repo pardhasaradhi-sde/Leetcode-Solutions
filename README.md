@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Interactive
 |  |
 | ------- |
