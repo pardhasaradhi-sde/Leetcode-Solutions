@@ -7,7 +7,7 @@ class Solution {
         while(right<fruits.length)
         {
            l1.put(fruits[right],l1.getOrDefault(fruits[right],0)+1);
-           while(l1.size()>2)
+           if(l1.size()>2)
            {
             l1.put(fruits[left],l1.getOrDefault(fruits[left],0)-1);
             if(l1.get(fruits[left])==0)
