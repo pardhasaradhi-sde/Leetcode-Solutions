@@ -1,34 +1,28 @@
 class Solution {
-    public int numberOfSubarrays(int[] nums, int k) {
+    public int sumofsubarraysequalk(int[] nums,int k)
+    {
+         if(k<0)
+            {
+                return 0;
+            }
         int left=0;
         int count=0;
-        int oddcount=0;
-        int prefix=0;
-        for(int right=0;right<nums.length;right++)
-        {
-            if(nums[right]%2 ==1)
+        int right=0;
+        int sum=0;
+        while(right<nums.length)
+        {  
+            sum+=nums[right]%2;
+            while(sum>k)
             {
-                oddcount++;
-                prefix=0;  
-            }
-            if(oddcount>k)
-            {
-                if((nums[left]%2)!=0)
-                {
-                    oddcount--;
-                }
+                sum-=nums[left]%2;
                 left++;
             }
-            while(left<right && nums[left]%2==0 && oddcount==k)
-            {
-                prefix++;
-                left++;
-            }
-            if(oddcount==k)
-            {
-                count+=prefix+1;
-            }
+            count+=right-left+1;
+            right++;
         }
         return count;
+    }
+    public int numberOfSubarrays(int[] nums, int k) {
+       return sumofsubarraysequalk(nums,k)-sumofsubarraysequalk(nums,k-1);
     }
 }
