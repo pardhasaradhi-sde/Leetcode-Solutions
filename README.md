@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0054-spiral-matrix) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0070-climbing-stairs) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
