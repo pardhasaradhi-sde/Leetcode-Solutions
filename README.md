@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2102-find-the-middle-index-in-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
