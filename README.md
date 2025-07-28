@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2737-row-with-maximum-ones) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0861-flipping-an-image) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -527,8 +529,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0204-count-primes) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0078-subsets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
