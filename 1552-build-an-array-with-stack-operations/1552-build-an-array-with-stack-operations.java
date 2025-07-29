@@ -1,7 +1,6 @@
 class Solution {
     public List<String> buildArray(int[] target, int n) {
         List<String> l1=new ArrayList<>();
-        Stack<Integer> s=new Stack<>();
         int index=0;
         for(int num=1;num<=n;num++)
         {   
@@ -9,14 +8,13 @@ class Solution {
             {
                 break;
             }
-            s.push(num);
-            l1.add("Push");
-            if(s.peek()==target[index])
+            if(num==target[index])
             {
-               index++;
+                l1.add("Push");
+                index++;
             }
             else{
-                s.pop();
+                l1.add("Push");
                 l1.add("Pop");
 
             }
