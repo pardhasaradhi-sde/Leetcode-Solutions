@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0496-next-greater-element-i) |
