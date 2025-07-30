@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Doubly-Linked List
 |  |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1552-build-an-array-with-stack-operations](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
