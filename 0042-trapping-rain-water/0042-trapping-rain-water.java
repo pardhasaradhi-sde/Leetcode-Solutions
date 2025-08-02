@@ -2,22 +2,32 @@ class Solution {
     public int trap(int[] height) {
         int sum=0;
         int n=height.length;
-        Stack<Integer> s=new Stack<Integer>();
-        for(int i=0;i<n;i++)
+        int left=0,right=height.length-1;
+        int leftmax=0,rightmax=0;
+        while(left<=right)
         {
-           while(!s.isEmpty() && height[i]>height[s.peek()])
-           {
-            int bottom=s.pop();
-            if(s.isEmpty())
+            if(height[left]<=height[right])
             {
-                break;
+                if(height[left]>=leftmax)
+                {
+                    leftmax=height[left];
+                }
+                else{
+                    sum+=leftmax-height[left];
+                }
+                left++;
             }
-            int left=s.peek();
-            int dist=i-left-1;
-            int boundaryval=Math.min(height[i],height[left])-height[bottom];
-            sum+=dist*boundaryval;
-           }
-           s.push(i);
+            else{
+                if(height[right]>=rightmax)
+                {
+                    rightmax=height[right];
+                }
+                else{
+                    sum+=rightmax-height[right];
+                }
+                right--;
+            }
+
         }
         return sum;
     }
