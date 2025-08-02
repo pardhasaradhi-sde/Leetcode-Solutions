@@ -7,7 +7,7 @@ class Solution {
         Stack<Integer> s=new Stack<>();
         for(int i=0;i<arr.length;i++)
         {
-            while(!s.isEmpty() && arr[s.peek()]>=arr[i])
+            while(!s.isEmpty() && arr[s.peek()]>arr[i])
             {
                 s.pop();
             }
@@ -17,7 +17,7 @@ class Solution {
         s.clear();
         for(int i=arr.length-1;i>=0;i--)
         {
-            while(!s.isEmpty() && arr[s.peek()]>arr[i])
+            while(!s.isEmpty() && arr[s.peek()]>=arr[i])
             {
                 s.pop();
             }
