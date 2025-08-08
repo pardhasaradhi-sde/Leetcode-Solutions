@@ -5,23 +5,16 @@ class Solution {
         {
             return "none";
         }
-        Map<Integer,Integer> l1=new HashMap<>();
-        for(int num:nums)
-        {
-            l1.put(num,l1.getOrDefault(num,0)+1);
-        }
-        if(l1.size()==1)
+        if(nums[0]==nums[1] && nums[1]==nums[2])
         {
             return "equilateral";
         }
-        else if(l1.size()==2)
+        else if(nums[0]==nums[1] || nums[1]==nums[2])
         {
             return "isosceles";
         }
-        else if(l1.size()==3)
-        {
+        else{
             return "scalene";
         }
-        return "none";
     }
 }
