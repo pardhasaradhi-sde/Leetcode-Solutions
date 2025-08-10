@@ -1,20 +1,22 @@
 class Solution {
-    private int[] countdigits(int n)
+    private Map<Integer,Integer> countdigits(int n)
     {
         int num=n;
-        int count[]=new int[10];
+        Map<Integer,Integer> l1=new HashMap<>();
         while(num>0)
         {
-            count[num%10]++;
+            int digit=num%10;
+            l1.put(digit,l1.getOrDefault(digit,0)+1);
             num=num/10;
         }   
-        return count;
+        return l1;
     }
     public boolean reorderedPowerOf2(int n) {
-        int target[]=countdigits(n);
+        Map<Integer,Integer> l1=countdigits(n);
         for(int i=0;i<31;i++)
         {
-            if(Arrays.equals(target,countdigits(1<<i)))
+            int power=1<<i;
+            if(l1.equals(countdigits(power)))
             {
                 return true;
             }
