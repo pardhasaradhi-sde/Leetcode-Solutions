@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0900-reordered-power-of-2](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
