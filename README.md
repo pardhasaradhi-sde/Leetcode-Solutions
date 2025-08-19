@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2227-sum-of-subarray-ranges](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2529-range-product-queries-of-powers) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2032-largest-odd-number-in-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3321-type-of-triangle) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
