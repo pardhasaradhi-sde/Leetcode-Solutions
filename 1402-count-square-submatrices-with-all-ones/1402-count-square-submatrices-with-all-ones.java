@@ -1,30 +1,39 @@
 class Solution {
     public int countSquares(int[][] matrix) {
-        int m = matrix.length, n = matrix[0].length;
-        int total = 0;
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == 1) {
-                    int maxSize = Math.min(m - i, n - j);
-                    for (int size = 1; size <= maxSize; size++) {
-                        if (isSquare(matrix, i, j, size)) {
+        int rows=matrix.length,cols=matrix[0].length;
+        int total=0;
+        for(int i=0;i<rows;i++)
+        {
+            for(int j=0;j<cols;j++)
+            {
+                if(matrix[i][j]==1)
+                {
+                    int maxsize=Math.min(rows-i,cols-j);
+                    for(int k=1;k<=maxsize;k++)
+                    {
+                        if(issquare(matrix,i,j,k))
+                        {
                             total++;
-                        } else {
-                            break; // stop expanding further
+                        }
+                        else{
+                            break;
                         }
                     }
                 }
             }
         }
-
         return total;
     }
-
-    private boolean isSquare(int[][] mat, int r, int c, int size) {
-        for (int i = r; i < r + size; i++) {
-            for (int j = c; j < c + size; j++) {
-                if (mat[i][j] == 0) return false;
+    private boolean issquare(int[][] matrix,int row,int col,int size)
+    {
+        for(int i=row;i<row+size;i++)
+        {
+            for(int j=col;j<col+size;j++)
+            {
+                if(matrix[i][j]==0)
+                {
+                    return false;
+                }
             }
         }
         return true;
