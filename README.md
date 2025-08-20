@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2737-row-with-maximum-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3321-type-of-triangle) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1675-magnetic-force-between-two-balls](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2529-range-product-queries-of-powers) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0493-reverse-pairs) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
