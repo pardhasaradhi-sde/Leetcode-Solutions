@@ -1,10 +1,10 @@
 class Solution {
     public int countKeyChanges(String s) {
+        s=s.toLowerCase();
         int change=0;
-        for(int i=0;i<s.length()-1;i++)
+        for(int i=1;i<s.length();i++)
         {
-            char c=Character.toLowerCase(s.charAt(i+1));
-            if(Character.toLowerCase(s.charAt(i))!=c)
+            if(s.charAt(i)!=s.charAt(i-1))
             {
                 change++;
             }
