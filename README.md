@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1039-find-the-town-judge](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1247-decrease-elements-to-make-array-zigzag](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1247-decrease-elements-to-make-array-zigzag](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1448-maximum-69-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
