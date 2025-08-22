@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2737-row-with-maximum-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3321-type-of-triangle) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2737-row-with-maximum-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Greedy
 |  |
 | ------- |
