@@ -3,44 +3,43 @@ class Solution {
         if (numRows == 1 || numRows >= s.length()) {
             return s;
         }
-
-        char[][] arr = new char[numRows][s.length()];
+        StringBuilder[] rows=new StringBuilder[numRows];
         for (int i = 0; i < numRows; i++) {
-            Arrays.fill(arr[i], '\0');
+            rows[i]=new StringBuilder();
         }
 
-        int row = 0, col = 0;
-        boolean goingDown = true;
+        int row = 0;
+        boolean goingdown = true;
 
         for (int i = 0; i < s.length(); i++) {
-            arr[row][col] = s.charAt(i);
-
-            if (goingDown) {
-                if (row == numRows - 1) {
-                    goingDown = false;
+            rows[row].append(s.charAt(i));
+            if(goingdown)
+            {
+                if(row==numRows-1)
+            {
+                    goingdown=false;
                     row--;
-                    col++;
-                } else {
+            }
+            else{
+                row++;
+            }
+            }
+            else{
+                if(row==0)
+                {
+                    goingdown=true;
                     row++;
                 }
-            } else {
-                if (row == 0) {
-                    goingDown = true;
-                    row++;
-                } else {
+                else{
                     row--;
-                    col++;
                 }
             }
+            
         }
 
         StringBuilder st = new StringBuilder();
-        for (int i = 0; i < arr.length; i++) {
-            for (int j = 0; j < arr[0].length; j++) {
-                if (arr[i][j] != '\0') {
-                    st.append(arr[i][j]);
-                }
-            }
+        for (int i = 0; i < rows.length; i++) {
+            st.append(rows[i]);
         }
         return st.toString();
     }
