@@ -1,20 +1,15 @@
 class Solution {
     public int minLength(String s) {
-        StringBuilder s1=new StringBuilder(s);
-        for(int i=0;i<s1.length()-1;i++)
+        StringBuilder s1=new StringBuilder();
+        for(int i=0;i<s.length();i++)
         {
-            char c1=s1.charAt(i);
-            char c2=s1.charAt(i+1);
-            if((c1=='A' && c2=='B') || (c1=='C' && c2=='D'))
+            int n=s1.length();
+            if(n>0 && ((s1.charAt(n-1)=='A' && s.charAt(i)=='B') || (s1.charAt(n-1)=='C' && s.charAt(i)=='D')))
             {
-                s1.delete(i,i+2);
-                if(i>0)
-            {
-                i-=2;
+                s1.deleteCharAt(n-1);
             }
             else{
-                i-=1;
-            }
+                s1.append(s.charAt(i));
             }
         }
         return s1.length();
