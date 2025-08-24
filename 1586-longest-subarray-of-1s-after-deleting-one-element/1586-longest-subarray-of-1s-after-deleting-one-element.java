@@ -4,31 +4,23 @@ class Solution {
         int left=0;
         int right=0;
         int ones=0;
-        int curlen=0;
         while(right<nums.length)
         {
-            if(nums[right]==0 && ones==1)
+            if(nums[right]==0)
             {
-                while(nums[left]==1)
+                ones++;
+            }
+            while(ones>1)
+            {
+                if(nums[left]==0)
                 {
-                    curlen--;
-                    left++;
+                    ones--;
                 }
-                curlen--;
-                ones=0;
                 left++;
             }
-            if(nums[right]==1 || (nums[right]==0 && ones!=1))
-            {
-                curlen++;
-                if(nums[right]==0)
-                {
-                    ones=1;
-                }
-            }
-            maxlen=Math.max(curlen,maxlen);
+            maxlen=Math.max(maxlen,right-left);
             right++;
         }
-        return maxlen-1;
+        return maxlen;
     }
 }
