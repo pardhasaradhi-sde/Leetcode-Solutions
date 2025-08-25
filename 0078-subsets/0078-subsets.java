@@ -1,20 +1,19 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> l1=new ArrayList<>();
-        int subsets=1<<nums.length;
-        for(int i=0;i<subsets;i++)
-        {
-            List<Integer> l2=new ArrayList<>();
-            for(int j=0;j<nums.length;j++)
-            {
-                if((i&(1<<j))!=0)
-                {
-                    l2.add(nums[j]);
-                }
-            }
-            l1.add(l2);
-            
-        }
+        rec(0,l1,new ArrayList<>(),nums);
         return l1;
+    }
+    public void rec(int ind,List<List<Integer>> fin,List<Integer> curr,int[] arr)
+    {
+        if(ind==arr.length)
+        {
+            fin.add(new ArrayList<>(curr));
+            return;
+        }
+        curr.add(arr[ind]);
+        rec(ind+1,fin,curr,arr);
+        curr.remove(curr.size()-1);
+        rec(ind+1,fin,curr,arr);
     }
 }
