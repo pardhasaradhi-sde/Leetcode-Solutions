@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0861-flipping-an-image) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2737-row-with-maximum-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2737-row-with-maximum-ones) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0861-flipping-an-image) |
