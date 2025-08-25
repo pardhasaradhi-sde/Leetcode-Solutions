@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0048-rotate-image) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
