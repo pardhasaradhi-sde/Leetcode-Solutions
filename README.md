@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2737-row-with-maximum-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3321-type-of-triangle) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2432-number-of-zero-filled-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3321-type-of-triangle) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Dynamic Programming
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2102-find-the-middle-index-in-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2529-range-product-queries-of-powers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2529-range-product-queries-of-powers) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Interactive
 |  |
 | ------- |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2271-rearrange-array-elements-by-sign](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3790-fruits-into-baskets-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Indexed Tree
 |  |
@@ -695,4 +699,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 <!---LeetCode Topics End-->
