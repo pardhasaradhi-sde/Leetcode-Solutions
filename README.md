@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2737-row-with-maximum-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3321-type-of-triangle) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2529-range-product-queries-of-powers) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
