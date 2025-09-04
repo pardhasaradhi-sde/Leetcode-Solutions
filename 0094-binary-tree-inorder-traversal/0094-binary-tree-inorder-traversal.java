@@ -18,22 +18,16 @@ class Solution {
         List<Integer> l1=new ArrayList<>();
         Stack<TreeNode> s1=new Stack<>();
         TreeNode curr=root;
-        while(true)
+        while(curr!=null || !s1.isEmpty())
         {
-            if(curr!=null)
+            while(curr!=null)
             {
                 s1.push(curr);
                 curr=curr.left;
             }
-            else{
-                if(s1.isEmpty())
-                {
-                    break;
-                }
-                curr=s1.pop();
-                l1.add(curr.val);
-                curr=curr.right;
-            }
+            curr=s1.pop();
+            l1.add(curr.val);
+            curr=curr.right;
         }
         return l1;
     }
