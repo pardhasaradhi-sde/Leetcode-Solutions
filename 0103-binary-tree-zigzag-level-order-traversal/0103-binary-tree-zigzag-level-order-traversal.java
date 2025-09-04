@@ -30,13 +30,7 @@ class Solution {
             for(int i=0;i<size;i++)
             {
                 TreeNode ele=q1.poll();
-                if(lefttoright)
-                {
-                    level.add(ele.val);
-                }
-                else{
-                    level.add(0,ele.val);
-                }
+                level.add(ele.val);
                 if(ele.left!=null)
                 {
                     q1.offer(ele.left);
@@ -45,6 +39,10 @@ class Solution {
                 {
                     q1.offer(ele.right);
                 }
+            }
+            if(!lefttoright)
+            {
+                Collections.reverse(level);
             }
             l1.add(level);
             lefttoright=!lefttoright;
