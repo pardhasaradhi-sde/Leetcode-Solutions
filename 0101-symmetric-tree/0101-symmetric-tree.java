@@ -14,23 +14,35 @@
  * }
  */
 class Solution {
-    public boolean issym(TreeNode root1,TreeNode root2)
-    {
-        if(root1==null && root2==null)
+    public boolean isSymmetric(TreeNode root) {
+        Queue<TreeNode> prev=new LinkedList<>();
+        if(root==null)
         {
             return true;
         }
-        if(root1==null || root2==null)
+        prev.offer(root.left);
+        prev.offer(root.right);
+        while(!prev.isEmpty())
         {
-            return false;
+            TreeNode ele1=prev.poll();
+            TreeNode ele2=prev.poll();
+            if(ele1==null && ele2==null)
+            {
+                continue;
+            }
+            if(ele1==null || ele2==null)
+            {
+                return false;
+            }
+            if(ele1.val!=ele2.val)
+            {
+                return false;
+            }
+            prev.offer(ele1.left);
+            prev.offer(ele2.right);
+            prev.offer(ele1.right);
+            prev.offer(ele2.left);
         }
-        if(root1.val!=root2.val)
-        {
-            return false;
-        }
-        return issym(root1.left,root2.right) && issym(root1.right,root2.left);
-    }
-    public boolean isSymmetric(TreeNode root) {
-        return issym(root.left,root.right);
+        return true;
     }
 }
