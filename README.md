@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3830-find-closest-person](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
