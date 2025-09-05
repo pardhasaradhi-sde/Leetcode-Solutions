@@ -1,23 +1,24 @@
 class Solution {
-    int cou=0;
-    public int count(int num,int cou)
+    public void count(int num,int[] cou)
     {
         if(num==0)
         {
-            return cou;
+            return ;
         }
         if(num%2==0)
         {
             num/=2;
-            cou=cou+1;
+            cou[0]=cou[0]+1;
         }
         else{
             num-=1;
-            cou=cou+1;
+            cou[0]=cou[0]+1;
         }
-        return count(num,cou);
+        count(num,cou);
     }
     public int numberOfSteps(int num) {
-       return count(num,cou);
+        int cou[]=new int[1];
+       count(num,cou);
+       return cou[0];
     }
 }
