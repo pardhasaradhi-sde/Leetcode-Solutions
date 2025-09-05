@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1039-find-the-town-judge](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1095-two-city-scheduling](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1127-last-stone-weight) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0900-reordered-power-of-2](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0948-sort-an-array) |
+| [1095-two-city-scheduling](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1675-magnetic-force-between-two-balls](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0646-maximum-length-of-pair-chain](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1095-two-city-scheduling](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1448-maximum-69-number) |
