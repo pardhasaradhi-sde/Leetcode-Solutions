@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1035-cousins-in-binary-tree](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Enumeration
 |  |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1035-cousins-in-binary-tree](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1035-cousins-in-binary-tree](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -752,4 +755,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
