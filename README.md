@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0874-backspace-string-compare](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0990-verifying-an-alien-dictionary](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0861-flipping-an-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0943-sum-of-subarray-minimums](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1552-build-an-array-with-stack-operations](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1552-build-an-array-with-stack-operations](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
