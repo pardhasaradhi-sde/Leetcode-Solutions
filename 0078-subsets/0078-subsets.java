@@ -4,16 +4,16 @@ class Solution {
         rec(0,l1,new ArrayList<>(),nums);
         return l1;
     }
-    public void rec(int ind,List<List<Integer>> fin,List<Integer> curr,int[] arr)
+    public void rec(int ind,List<List<Integer>> fin,List<Integer> cur,int[] arr)
     {
         if(ind==arr.length)
         {
-            fin.add(new ArrayList<>(curr));
+            fin.add(new ArrayList<>(cur));
             return;
         }
-        curr.add(arr[ind]);
-        rec(ind+1,fin,curr,arr);
-        curr.remove(curr.size()-1);
-        rec(ind+1,fin,curr,arr);
+        cur.add(arr[ind]);
+        rec(ind+1,fin,cur,arr);
+        cur.remove(cur.size()-1);
+        rec(ind+1,fin,cur,arr);
     }
 }
