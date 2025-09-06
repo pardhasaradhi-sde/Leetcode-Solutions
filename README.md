@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0682-baseball-game) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0900-reordered-power-of-2](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0900-reordered-power-of-2) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
