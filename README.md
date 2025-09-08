@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0900-reordered-power-of-2](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1585-the-kth-factor-of-n) |
