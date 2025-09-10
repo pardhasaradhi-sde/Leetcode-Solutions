@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1448-maximum-69-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1585-the-kth-factor-of-n) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0861-flipping-an-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1552-build-an-array-with-stack-operations](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -707,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0342-power-of-four) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
