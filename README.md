@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Doubly-Linked List
 |  |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1552-build-an-array-with-stack-operations](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Queue
@@ -783,4 +786,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1035-cousins-in-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
