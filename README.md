@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0943-sum-of-subarray-minimums](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0978-valid-mountain-array) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0990-verifying-an-alien-dictionary](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1039-find-the-town-judge) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0900-reordered-power-of-2](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0948-sort-an-array) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1095-two-city-scheduling](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0874-backspace-string-compare) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
