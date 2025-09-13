@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0682-baseball-game) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0940-fruit-into-baskets) |
