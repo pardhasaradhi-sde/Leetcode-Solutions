@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0216-combination-sum-iii) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0861-flipping-an-image) |
@@ -759,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -825,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0200-number-of-islands) |
 | [1035-cousins-in-binary-tree](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 ## Data Stream
 |  |
