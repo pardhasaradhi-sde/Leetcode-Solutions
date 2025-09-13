@@ -24,9 +24,9 @@ class Solution {
     }
     public List<List<Integer>> permuteUnique(int[] nums) {
         Arrays.sort(nums);
-        List<List<Integer>> l1=new ArrayList<>();
-        boolean[] used=new boolean[nums.length];
-        backtrack(l1,new ArrayList<>(),nums,used);
-        return l1;
+        List<List<Integer>> res=new ArrayList<>();
+        boolean used[]=new boolean[nums.length];
+        backtrack(res,new ArrayList<>(),nums,used);
+        return res;
     }
 }
