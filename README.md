@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1904-second-largest-digit-in-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2226-rings-and-rods](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2226-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2226-rings-and-rods](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2226-rings-and-rods) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
