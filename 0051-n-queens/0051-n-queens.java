@@ -1,11 +1,11 @@
 class Solution {
-    public boolean isplacable(String[] board,int row,int col,int n)
+    public boolean isplacable(char[][] board,int row,int col,int n)
     {
         //check left
         int i=col;
         while(i>=0)
         {
-            if(board[row].charAt(i)=='Q')
+            if(board[row][i]=='Q')
             {
                 return false;
             }
@@ -15,7 +15,7 @@ class Solution {
         int j=col;
         while(i>=0 && j>=0)
         {
-            if(board[i].charAt(j)=='Q')
+            if(board[i][j]=='Q')
             {
                 return false;
             }
@@ -25,7 +25,7 @@ class Solution {
         i=row;j=col;
         while(i<n && j>=0)
         {
-            if(board[i].charAt(j)=='Q')
+            if(board[i][j]=='Q')
             {
                 return false;
             }
@@ -34,34 +34,39 @@ class Solution {
         }
         return true;
     }
-    public void backtrack(int col,String[] board,List<List<String>> res,int n)
+    public void backtrack(int col,char[][] board,List<List<String>> res,int n)
     {
         if(col==n)
         {
-            res.add(new ArrayList<>(Arrays.asList(board)));
+            ArrayList<String> l1=new ArrayList<>();
+            for(int i=0;i<n;i++)
+            {
+                l1.add(new String(board[i]));
+            }
+            res.add(l1);
             return;
         }
         for(int row=0;row<n;row++)
         {
             if(isplacable(board,row,col,n))
             {
-                char[] chars=board[row].toCharArray();
-                chars[col]='Q';
-                board[row]=new String(chars);
+                board[row][col]='Q';
                 backtrack(col+1,board,res,n);
-                chars[col]='.';
-                board[row]=new String(chars);
+                board[row][col]='.';
             }
         }
     }
         public List<List<String>> solveNQueens(int n) {
             List<List<String>> res=new ArrayList<>();
-            String[] nqueen=new String[n];
-            char []row=new char[n];
-            Arrays.fill(row,'.');
-            String emptyrow=new String(row);
-            Arrays.fill(nqueen,emptyrow);
-            backtrack(0,nqueen,res,n);
+            char[][] board=new char[n][n];
+            for(int i=0;i<n;i++)
+            {
+                for(int j=0;j<n;j++)
+                {
+                    board[i][j]='.';
+                }
+            }
+            backtrack(0,board,res,n);
             return res;
         }
 }
