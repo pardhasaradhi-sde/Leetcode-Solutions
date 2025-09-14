@@ -18,20 +18,20 @@ class Solution {
             s1.add(board[i][j]);
         }
        }
-       for(int i=0;i<n;i++)
+       for(int j=0;j<n;j++)
        {
         Set<Character> s1=new HashSet<>();
-        for(int j=0;j<m;j++)
+        for(int i=0;i<m;i++)
         {
-            if(board[j][i]=='.')
+            if(board[i][j]=='.')
             {
                 continue;
             }
-            if(s1.contains(board[j][i]))
+            if(s1.contains(board[i][j]))
             {
                 return false;
             }
-            s1.add(board[j][i]);
+            s1.add(board[i][j]);
         }
        }
        for(int sr=0;sr<m;sr+=3)
