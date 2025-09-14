@@ -5,14 +5,14 @@ class Solution {
         {
             s1.add(num);
         }
-        Arrays.sort(nums2);
+        int min=Integer.MAX_VALUE;
         for(int num:nums2)
         {
             if(s1.contains(num))
             {
-                return num;
+                min=Math.min(num,min);
             }
         }
-        return -1;
+        return min==Integer.MAX_VALUE?-1:min;
     }
 }
