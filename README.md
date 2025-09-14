@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0978-valid-mountain-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0978-valid-mountain-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0990-verifying-an-alien-dictionary](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1022-unique-paths-iii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1022-unique-paths-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0861-flipping-an-image) |
+| [1022-unique-paths-iii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2737-row-with-maximum-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0461-hamming-distance](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1022-unique-paths-iii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1022-unique-paths-iii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0216-combination-sum-iii) |
+| [1022-unique-paths-iii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1022-unique-paths-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
 |  |
