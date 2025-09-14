@@ -1,40 +1,16 @@
 class Solution {
-    public boolean isplacable(char[][] board,int row,int col,int n)
+    boolean[] leftrow;
+    boolean[] bottomleftdiag;
+    boolean[] topleftdiag;
+    public boolean isplacable(char[][] board,int row,int col,int n,boolean[] leftrow,boolean[] bottomleftdiag,boolean[] topleftdiag)
     {
-        //check left
-        int i=col;
-        while(i>=0)
+        if(leftrow[row] || bottomleftdiag[row+col] || topleftdiag[n-1+col-row])
         {
-            if(board[row][i]=='Q')
-            {
-                return false;
-            }
-            i--;
-        }
-        i=row;
-        int j=col;
-        while(i>=0 && j>=0)
-        {
-            if(board[i][j]=='Q')
-            {
-                return false;
-            }
-            i--;
-            j--;
-        }
-        i=row;j=col;
-        while(i<n && j>=0)
-        {
-            if(board[i][j]=='Q')
-            {
-                return false;
-            }
-            i++;
-            j--;
+            return false;
         }
         return true;
     }
-    public void backtrack(int col,char[][] board,List<List<String>> res,int n)
+    public void backtrack(int col,char[][] board,List<List<String>> res,int n,boolean[] leftrow,boolean[] bottomleftdiag,boolean[] topleftdiag)
     {
         if(col==n)
         {
@@ -48,11 +24,17 @@ class Solution {
         }
         for(int row=0;row<n;row++)
         {
-            if(isplacable(board,row,col,n))
+            if(isplacable(board,row,col,n,leftrow,bottomleftdiag,topleftdiag))
             {
                 board[row][col]='Q';
-                backtrack(col+1,board,res,n);
+                leftrow[row]=true;
+                bottomleftdiag[row+col]=true;
+                topleftdiag[n-1+col-row]=true;
+                backtrack(col+1,board,res,n,leftrow,bottomleftdiag,topleftdiag);
                 board[row][col]='.';
+                leftrow[row]=false;
+                bottomleftdiag[row+col]=false;
+                topleftdiag[n-1+col-row]=false;
             }
         }
     }
@@ -66,7 +48,10 @@ class Solution {
                     board[i][j]='.';
                 }
             }
-            backtrack(0,board,res,n);
+            leftrow=new boolean[n];
+            topleftdiag=new boolean[2*n-1];
+            bottomleftdiag=new boolean[2*n-1];
+            backtrack(0,board,res,n,leftrow,topleftdiag,bottomleftdiag);
             return res;
         }
 }
