@@ -1,39 +1,38 @@
 class Solution {
-    private boolean ispalindrome(String str)
+    public List<List<String>> partition(String s) {
+        List<List<String>> res=new ArrayList<>();
+        backtrack(res,s,new ArrayList<String>(),0);
+        return res;
+    }
+    public boolean ispalindrome(String s)
     {
-        int start=0;
-        int end=str.length()-1;
-        while(start<=end)
+        int left=0;int right=s.length()-1;
+        while(left<=right)
         {
-            if(str.charAt(start)!=str.charAt(end))
+            if(s.charAt(left)!=s.charAt(right))
             {
                 return false;
             }
-            start++;
-            end--;
+            left++;
+            right--;
         }
         return true;
     }
-    public List<List<String>> partition(String s) {
-        List<List<String>> res=new ArrayList<>();
-        backtrack(0,res,new ArrayList<>(),s);
-        return res; 
-    }
-    public void backtrack(int ind,List<List<String>> res,List<String> cur,String s)
+    public void backtrack(List<List<String>> res,String s,ArrayList<String> curr,int ind)
     {
         if(ind==s.length())
         {
-            res.add(new ArrayList<>(cur));
+            res.add(new ArrayList<>(curr));
             return;
         }
-        for(int end=ind;end<s.length();end++)
+        for(int i=ind;i<s.length();i++)
         {
-            String str=s.substring(ind,end+1);
+            String str=s.substring(ind,i+1);
             if(ispalindrome(str))
             {
-                cur.add(str);
-                backtrack(end+1,res,cur,s);
-                cur.remove(cur.size()-1);
+                curr.add(str);
+                backtrack(res,s,curr,i+1);
+                curr.remove(curr.size()-1);
             }
         }
     }
