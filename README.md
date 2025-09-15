@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0282-expression-add-operators) |
 | [0383-ransom-note](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0342-power-of-four) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0282-expression-add-operators) |
 | [1022-unique-paths-iii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1022-unique-paths-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
