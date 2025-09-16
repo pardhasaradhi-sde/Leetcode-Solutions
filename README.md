@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0162-find-peak-element) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0146-lru-cache) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0242-valid-anagram) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0139-word-break) |
 ## Binary Search
 |  |
 | ------- |
@@ -766,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0139-word-break) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Depth-First Search
 |  |
