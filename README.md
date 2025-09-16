@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2227-sum-of-subarray-ranges](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2032-largest-odd-number-in-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3321-type-of-triangle) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
