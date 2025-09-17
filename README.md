@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3778-transform-array-by-parity](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3321-type-of-triangle) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3830-find-closest-person](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3830-find-closest-person) |
