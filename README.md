@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
