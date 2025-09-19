@@ -1,19 +1,27 @@
 // User function Template for Java
 class Solution {
+    int solve(int ind,int[] height,int[] dp)
+    {
+        if(ind==0)
+        {
+            return 0;
+        }
+        if(dp[ind]!=-1)
+        {
+            return dp[ind];
+        }
+        int left=solve(ind-1,height,dp)+Math.abs(height[ind]-height[ind-1]);
+        int right=Integer.MAX_VALUE;
+        if(ind>1)
+        {
+            right=solve(ind-2,height,dp)+Math.abs(height[ind]-height[ind-2]);
+        }
+        return dp[ind]=Math.min(right,left);
+    }
     int minCost(int[] height) {
-       int n=height.length;
-       int []dp=new int[height.length];
-        dp[0]=0;
-       for(int i=1;i<n;i++)
-       {
-           int cost1=dp[i-1]+Math.abs(height[i]-height[i-1]);
-           int cost2=Integer.MAX_VALUE;
-           if(i>1)
-           {
-               cost2=dp[i-2]+Math.abs(height[i]-height[i-2]);
-           }
-           dp[i]=Math.min(cost1,cost2);
-       }
-       return dp[n-1];
+        int dp[]=new int[height.length];
+        Arrays.fill(dp,-1);
+        
+        return solve(height.length-1,height,dp);
     }
 }
