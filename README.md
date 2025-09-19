@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3778-transform-array-by-parity](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3312-number-of-changing-keys](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3312-number-of-changing-keys) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3617-find-the-original-typed-string-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
+| [3797-design-spreadsheet](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0937-online-stock-span](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2737-row-with-maximum-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3797-design-spreadsheet](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Greedy
 |  |
 | ------- |
