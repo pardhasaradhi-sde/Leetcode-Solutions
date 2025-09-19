@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0189-rotate-array) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0118-pascals-triangle) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0062-unique-paths) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Tree
 |  |
