@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2634-minimum-common-value](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2634-minimum-common-value) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -722,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3827-implement-router](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -794,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0493-reverse-pairs](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0493-reverse-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3827-implement-router) |
 ## Graph
 |  |
 | ------- |
