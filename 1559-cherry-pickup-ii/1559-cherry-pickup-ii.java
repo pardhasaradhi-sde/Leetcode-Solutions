@@ -26,15 +26,14 @@ class Solution {
         
         int cherries = (col1 == col2) ? grid[row][col1] : grid[row][col1] + grid[row][col2];
         int maxCherries = Integer.MIN_VALUE;
-        
         // All 9 possible moves for both robots
         for (int d1 = -1; d1 <= 1; d1++) {
             for (int d2 = -1; d2 <= 1; d2++) {
-                int next = cherryUtil(row + 1, col1 + d1, col2 + d2, rows, cols, grid, dp);
+                int next = cherries+cherryUtil(row + 1, col1 + d1, col2 + d2, rows, cols, grid, dp);
                 maxCherries = Math.max(maxCherries, next);
             }
         }
         
-        return dp[row][col1][col2] = cherries + maxCherries;
+        return dp[row][col1][col2] = maxCherries;
     }
 }
