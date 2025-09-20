@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1755-defuse-the-bomb](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1755-defuse-the-bomb](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
