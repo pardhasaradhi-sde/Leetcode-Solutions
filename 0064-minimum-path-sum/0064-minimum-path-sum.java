@@ -7,15 +7,15 @@ class Solution {
         }
         if(row>=rows || col>=cols)
         {
-            return Integer.MAX_VALUE;
+            return (int)Math.pow(10,9);
         }
         if(dp[row][col]!=-1)
         {
             return dp[row][col];
         }
-        int down=solve(row+1,col,rows,cols,grid,dp);
-        int right=solve(row,col+1,rows,cols,grid,dp);
-        return dp[row][col]=grid[row][col]+Math.min(down,right);
+        int down=grid[row][col]+solve(row+1,col,rows,cols,grid,dp);
+        int right=grid[row][col]+solve(row,col+1,rows,cols,grid,dp);
+        return dp[row][col]=Math.min(down,right);
     }
     public int minPathSum(int[][] grid) {
         int dp[][]=new int[grid.length][grid[0].length];
