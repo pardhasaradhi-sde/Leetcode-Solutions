@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0741-cherry-pickup](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0741-cherry-pickup) |
 | [0792-binary-search](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0890-lemonade-change](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1095-two-city-scheduling](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1247-decrease-elements-to-make-array-zigzag) |
