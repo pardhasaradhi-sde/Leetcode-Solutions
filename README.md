@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1961-maximum-ice-cream-bars](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2650-split-with-minimum-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2650-split-with-minimum-sum) |
 | [2689-rearranging-fruits](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2887-sort-vowels-in-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2650-split-with-minimum-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2650-split-with-minimum-sum) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3321-type-of-triangle) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1961-maximum-ice-cream-bars](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2650-split-with-minimum-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2650-split-with-minimum-sum) |
 | [2689-rearranging-fruits](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2689-rearranging-fruits) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
