@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1904-second-largest-digit-in-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2226-rings-and-rods](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2226-rings-and-rods) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2226-rings-and-rods](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2226-rings-and-rods) |
