@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2694-find-the-maximum-divisibility-score](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2737-row-with-maximum-ones](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2737-row-with-maximum-ones) |
+| [2756-buy-two-chocolates](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2756-buy-two-chocolates) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2650-split-with-minimum-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2650-split-with-minimum-sum) |
 | [2689-rearranging-fruits](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2756-buy-two-chocolates](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2756-buy-two-chocolates) |
 | [2887-sort-vowels-in-a-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3321-type-of-triangle) |
 | [3778-transform-array-by-parity](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3778-transform-array-by-parity) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2650-split-with-minimum-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2650-split-with-minimum-sum) |
 | [2689-rearranging-fruits](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2689-rearranging-fruits) |
+| [2756-buy-two-chocolates](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2756-buy-two-chocolates) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
