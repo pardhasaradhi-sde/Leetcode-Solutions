@@ -11,27 +11,27 @@ class Solution {
         }
         long num=Math.abs((long)numerator);
         long den=Math.abs((long)denominator);
-        long remainder=num%den;
-        res.append(num/den);
-        if(remainder==0)
+        long div=num/den;
+        res.append(div);
+        long rem=num%den;
+        if(rem==0)
         {
             return res.toString();
         }
         res.append(".");
-        Map<Long,Integer> map=new HashMap<>();
-        while(remainder!=0)
+        Map<Long,Integer> m1=new HashMap<>();
+        while(rem!=0)
         {
-            if(map.containsKey(remainder))
+            if(m1.containsKey(rem))
             {
-                int pos=map.get(remainder);
-                res.insert(pos,"(");
+                res.insert(m1.get(rem),"(");
                 res.append(")");
-                break;
+                return res.toString();
             }
-            map.put(remainder,res.length());
-            remainder*=10;
-            res.append(remainder/den);
-            remainder%=den;
+            m1.put(rem,res.length());
+            rem=rem*10;
+            res.append(rem/den);
+            rem%=den;
         }
         return res.toString();
     }
