@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0741-cherry-pickup) |
 | [0792-binary-search](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0830-largest-triangle-area](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -951,4 +953,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0937-online-stock-span) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
