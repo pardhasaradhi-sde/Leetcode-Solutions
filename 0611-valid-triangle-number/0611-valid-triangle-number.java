@@ -1,24 +1,40 @@
 class Solution {
     public int triangleNumber(int[] nums) {
+       Arrays.sort(nums);
        int count=0;
        int n=nums.length;
-       Arrays.sort(nums);
-        for(int k=n-1;k>=2;k--)
+       for(int i=0;i<n;i++)
+       {
+        if(nums[i]==0)
         {
-            int i=0,j=k-1;
-            while(i<j)
-            {
-                if(nums[i]+nums[j]>nums[k])
-                {
-                    count+=j-i;
-                    j--;
-                }
-                else{
-                    i++;
-                }
-            }
-
+            continue;
         }
-        return count;
+        for(int j=i+1;j<n;j++)
+        {
+            int ind=binarysearch(nums,i+1,n-1,nums[i]+nums[j]);
+            if(ind!=-1)
+            {
+                count+=ind-j;
+            }
+        }
+       }
+       return count;
+    }
+    public int binarysearch(int[] nums,int l,int r,int target)
+    {
+        int res=-1;
+        while(l<=r)
+        {
+            int mid=l+(r-l)/2;
+            if(nums[mid]<target)
+            {
+                res=mid;
+                l=mid+1;
+            }
+            else{
+                r=mid-1;
+            }
+        }
+        return res;
     }
 }
