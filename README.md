@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0978-valid-mountain-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0978-valid-mountain-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0990-verifying-an-alien-dictionary](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1018-largest-perimeter-triangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1022-unique-paths-iii](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1022-unique-paths-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1039-find-the-town-judge) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1018-largest-perimeter-triangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0830-largest-triangle-area](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1018-largest-perimeter-triangle](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
