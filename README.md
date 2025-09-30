@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2050-count-good-numbers](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2650-split-with-minimum-sum](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2650-split-with-minimum-sum) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -919,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Tree
 |  |
