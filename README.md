@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1585-the-kth-factor-of-n) |
+| [1642-water-bottles](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0874-backspace-string-compare](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1642-water-bottles](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pardhasaradhi-sde/Leetode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
